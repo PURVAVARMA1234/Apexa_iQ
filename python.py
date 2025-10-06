@@ -16,8 +16,6 @@ class BankAccount:
     def check_balance(self):
         print(f"Balance: {self.balance}")
 
-
-# Example usage
 account = BankAccount(1000)
 account.deposit(500)
 account.withdraw(200)
@@ -107,6 +105,7 @@ def is_palindrome(s):
 
 print("Palindrome check for 'radar':", is_palindrome("radar"))
 print("Palindrome check for 'hello':", is_palindrome("hello"))
+
 
 
 
