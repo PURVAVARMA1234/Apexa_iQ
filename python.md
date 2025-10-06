@@ -57,7 +57,7 @@ enough for major professional tasks in:
   ------------------------------------------------------------------------
   Career Role       Focus Area                          Salary Potential
                                                         (LPA)
-  ----------------- ----------------------------------- ------------------
+  ----------------------------------------------------------------------
   **Data            AI modeling, in-depth data analysis High range (10 -
   Scientist**                                           30)
 
@@ -104,7 +104,7 @@ The **data type** defines what kind of value a variable holds.
 
   ---------------------------------------------------------------------------------
   Type Category  Type         Description                        Key Examples
-  -------------- ------------ ---------------------------------- ------------------
+  ------------------------------------------------------------------------------
   **Numeric**    int          Whole numbers (integers).          100,−5
 
                  float        Numbers with a decimal point.      3.14,−10.5
@@ -146,7 +146,7 @@ on data (**operands**).
 
   ----------------------------------------------------------------------------
   Operator Type    Purpose                                    Examples
-  ---------------- ------------------------------------------ ----------------
+  --------------------------------------------------------------------------
                                                               
 
   **Arithmetic**   Math operations: +, -, \*, /, **floor      5+3
@@ -284,7 +284,7 @@ code duplication and poor maintainability.
   ------------------------------------------------------------------------------
   OOP Concept       Simple Explanation                    Implementation in
                                                           Python
-  ----------------- ------------------------------------- ----------------------
+  ----------------------------------------------------------------------------
   **Class**         The **blueprint** or template for     Defined with the class
                     creating objects.                     keyword.
 
@@ -365,7 +365,7 @@ operations. 3. **Close** the file.
 
   ---------------------------------------------------------------------------
   Mode          Purpose                    Key Behavior
-  ------------- -------------------------- ----------------------------------
+  -------------------------------------------------------------------------
   **\'r\'**     Read-only                  File must already exist.
 
   **\'w\'**     Write                      **Overwrites** existing file or
@@ -379,7 +379,6 @@ operations. 3. **Close** the file.
   **\'a+\'**                               
   ---------------------------------------------------------------------------
 
-Export to Sheets
 
 **Best Practice:** Use the **with open(\...) as file:** statement. It
 automatically ensures the file is closed, even if errors occur,
